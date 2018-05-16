@@ -5,6 +5,7 @@ The original file has no README about how to compiler it, here I list the proced
 I do it on a Ubuntu 16.06 64 bit desktop .
 
 1. install packages
+
 sudo apt-get install autoconf automake autotools-dev curl libmpc-dev libmpfr-dev libgmp-dev libusb-1.0-0-dev gawk build-essential bison flex texinfo gperf libtool patchutils bc zlib1g-dev device-tree-compiler pkg-config libexpat-dev
 
 2. use git  to pull submodules, this will take a long time to wait the files get downloaded,  I failed my times to get the file, however the situation is better in midnight,
